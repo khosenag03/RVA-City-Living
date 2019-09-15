@@ -1,12 +1,15 @@
 # RVA-City-Living
 
 What this project is about and what it aims to accomplish?
+
   We will web-scrape apartment sites in RVA to provide a resource for clients that compare the cost of living and public education by zip code.
 
 Explain the problem that the project addresses specifically.
+
   Richmond, Virginia, is quickly becoming a city of choice. Many who relocated to RVA are often tasked with searching several sights to gather information that one would need when looking for a residence. This collection of data will be of convenience to those seeking to gather information that would guide an informed decision about what area of RVA best meets their needs.
 
 What evidence is there to support the need for this project?
+
   To assist users who are in pursuit of reasonably priced living and adequate school ratings. 
 
 EXTRACT (Objects to Pull):
